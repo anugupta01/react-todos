@@ -1,4 +1,4 @@
-# Next.js Crash Course Project
+# Next.js Project
 
 Project from my Next.js
 
